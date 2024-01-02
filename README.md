@@ -1,5 +1,5 @@
 # Ratina-Project
-Ratina Project (with vision, GAN, Noisy Student)
+Ratina Project (with vision, DCGAN, Noisy Student)
 
 (프로젝트 환경) readme.pdf를 참고해 주세요
 
